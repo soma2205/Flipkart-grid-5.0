@@ -5,8 +5,8 @@
 
 This project features a 5-axis robotic arm designed for picking and placing packages. The system utilizes YOLO (You Only Look Once) for object detection, servo motors for arm movement, and a Raspberry Pi for control.
 
-[Demo Video 1](https://youtu.be/s4XxLokjdwU?si=U1ifwhN10mzz8yIT)
-[Demo Video 2](https://youtu.be/EqZEmNHJ6G0?si=k9VO9oSxIY6RigZM)
+[Demo Video 1](https://youtu.be/6gDhsT2d5xI?si=DgtFeNLEqFj2HNu2)
+[Demo Video 2](https://youtu.be/Tzfy6G-gONc?si=u84OyhxzPgQbtFOt)
 
 
 ## Features
